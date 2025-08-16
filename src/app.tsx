@@ -114,7 +114,7 @@ function App() {
     "Dabizat o xhal d les blocks",
     "Your beautiful eyes when you look at me",
     "Every little adventure we've shared together",
-    "The dreams we whispered under the stars",
+    "Ahlam dyalna about SAMA bentna",
     "All the memories yet to be written"
   ];
 
